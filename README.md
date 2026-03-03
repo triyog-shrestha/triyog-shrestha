@@ -1,3 +1,4 @@
+[ReadMe.md](https://github.com/user-attachments/files/25710218/ReadMe.md)
 # 💫 About Me:
 🔭 I’m currently working on: Academic and personal projects using Java, focusing on building structured and maintainable applications.<br><br>👯 I’m looking to collaborate on: Entry-level or open-source projects where I can contribute, learn from experienced developers, and grow as a team player.<br><br>🤝 I’m looking for help with: Real-world software development practices, clean architecture, and understanding how industry-level systems are built.<br><br>🌱 I’m currently learning: Data Structures & Algorithms, Object-Oriented Programming, Design Patterns, and Backend fundamentals.<br><br>💬 Ask me about: Java basics, OOP concepts, UML diagrams, networking fundamentals, and problem-solving approaches.<br><br>⚡ Fun fact: I enjoy breaking down complex technical problems into simple, logical steps.
 
