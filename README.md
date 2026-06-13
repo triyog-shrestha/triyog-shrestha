@@ -1,6 +1,13 @@
 
 # 💫 About Me:
-🔭 I’m currently working on<br><br>* Building Django web applications and improving my backend development skills.<br>* Creating portfolio projects to strengthen my software engineering experience.<br><br>👯 I’m looking to collaborate on<br><br>* Open-source projects, web applications, and hackathon projects.<br>* Backend systems, APIs, and developer tools.<br><br>🤝 I’m looking for help with<br><br>* System design, scalable backend architecture, and DevOps practices.<br>* Contributing effectively to open-source projects.<br><br>🌱 I’m currently learning<br><br>* Django, REST APIs, PostgreSQL, Git/GitHub, and Linux.<br>* Software architecture, databases, and cloud deployment.<br><br>💬 Ask me about<br><br>* Python, Django, backend development, Linux, and Git.<br>* My journey as a software engineering student in Nepal.<br><br>⚡ Fun fact<br><br>* I enjoy turning ideas into working applications and learning new technologies by building projects.<br>
+I'm a Software Engineering student from Nepal with a strong interest in backend development, software architecture, and building scalable web applications. I enjoy turning ideas into functional products and am constantly exploring new technologies that help me create efficient and maintainable software.
+
+My primary focus is on Python and Django, where I enjoy developing full-stack applications, designing databases, and implementing backend systems. I'm particularly interested in SaaS platforms, multi-tenant architectures, APIs, and the engineering challenges involved in building applications that can scale to support large numbers of users.
+
+Beyond programming, I enjoy learning about Linux, development tools, system administration, and modern software development practices. I believe the best way to learn is by building real projects, which is why I spend much of my time experimenting with new technologies, contributing to personal projects, and refining my development workflow.
+
+I'm always looking for opportunities to collaborate, learn from experienced developers, and work on projects that solve meaningful problems. My goal is to grow into a skilled software engineer capable of building reliable, impactful products while continuously improving my technical and problem-solving abilities.
+<br>
 
 
 ## 🌐 Socials:
